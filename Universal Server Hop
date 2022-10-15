@@ -1,0 +1,3 @@
+local module = loadstring(game:HttpGet"https://raw.githubusercontent.com/Yasin-bot/Alt-Script/main/Server%20Hop%20Alt?token=GHSAT0AAAAAABZ6UTMFXRAU6CD5M374VNSOY2KZDYQ")()
+
+module:Teleport(game.PlaceId)
