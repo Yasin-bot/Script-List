@@ -1,1 +1,1 @@
-loadstring(game:HttpGet"https://raw.githubusercontent.com/Yasin-bot/Alt-Script/main/Universal%20Server%20Hop%20v2?token=GHSAT0AAAAAABZ6UTMFI3YUKHMEYQ5E4FA4Y2K4NOA")()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/Yasin-bot/Script-Alt/main/Universal%20Server%20Hop%20v2.txt")()
