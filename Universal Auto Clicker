@@ -19,7 +19,7 @@ if not pcall(function() return syn.protect_gui end) then
 end
 
 --// UI Library \\--
-local Library = loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/Yasin-bot/Alt-Script/main/Auto%20Clicker%20Alt?token=GHSAT0AAAAAABZ6UTME43WMG75NFFROA37QY2K2YNA'))()
+local Library = loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/Yasin-bot/Script-Alt/main/Auto%20Clicker%20Alt'))()
 local Window = Library:CreateWindow("Clicker by Yasko")
 Enabled_1 = Window:AddColor({
     text = 'Status:',
